@@ -1,1 +1,1 @@
-# multi-language-i18next
+https://chaudhuree.github.io/multi-language-i18next/
